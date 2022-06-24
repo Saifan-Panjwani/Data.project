@@ -7,7 +7,7 @@
         "Year": "2022",
         "Region": "Southwest",
         "jamat": "Houston",
-        "#_students": 50,
+        "number_students": 50,
         "college_name": "Harvard"
       },
       "geometry": {
@@ -24,7 +24,7 @@
         "Year": "2022",
         "Region": "Southwest",
         "jamat": "Houston",
-        "#_students": 60,
+        "number_students": 60,
         "college_name": "MIT"
       },
       "geometry": {
@@ -41,7 +41,7 @@
         "Year": "2022",
         "Region": "Southwest",
         "jamat": "Houston",
-        "#_students": 72,
+        "number_students": 72,
         "college_name": "Colombia"
       },
       "geometry": {
@@ -58,7 +58,7 @@
         "Year": "2022",
         "Region": "Southwest",
         "jamat": "Houston",
-        "#_students": 12,
+        "number_students": 12,
         "college_name": "UCLA"
       },
       "geometry": {
@@ -75,7 +75,7 @@
         "Year": "2021",
         "Region": "Southwest",
         "jamat": "Houston",
-        "#_students": 31,
+        "number_students": 31,
         "college_name": "UT Austin"
       },
       "geometry": {
@@ -92,7 +92,7 @@
         "Year": "2021",
         "Region": "Southwest",
         "jamat": "Houston",
-        "#_students": 15,
+        "number_students": 15,
         "college_name": "University of Houston"
       },
       "geometry": {
@@ -109,7 +109,7 @@
         "Year": "2021",
         "Region": "Southwest",
         "jamat": "Houston",
-        "#_students": 7,
+        "number_students": 7,
         "college_name": "Gerogia Tech"
       },
       "geometry": {
@@ -126,7 +126,7 @@
         "Year": "2021",
         "Region": "Southwest",
         "jamat": "Houston",
-        "#_students": 1,
+        "number_students": 1,
         "college_name": "Lamar University"
       },
       "geometry": {
