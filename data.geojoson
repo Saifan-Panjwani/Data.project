@@ -7,7 +7,7 @@
         "Year": 2022,
         "Region": "Southwest",
         "jamat": "Houston",
-        "#_students": 254,
+        "#_students": 50,
         "college_name": "Harvard"
       },
       "geometry": {
@@ -24,7 +24,7 @@
         "Year": 2022,
         "Region": "Southwest",
         "jamat": "Houston",
-        "#_students": 321,
+        "#_students": 60,
         "college_name": "MIT"
       },
       "geometry": {
@@ -41,7 +41,7 @@
         "Year": 2022,
         "Region": "Southwest",
         "jamat": "Houston",
-        "#_students": 123,
+        "#_students": 72,
         "college_name": "Colombia"
       },
       "geometry": {
@@ -75,14 +75,14 @@
         "Year": 2021,
         "Region": "Southwest",
         "jamat": "Houston",
-        "#_students": 324,
-        "college_name": "Harvard"
+        "#_students": 31,
+        "college_name": "UT Austin"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.116661,
-          42.377003
+          -97.7342106,
+          30.284458
         ]
       }
     },
@@ -92,14 +92,14 @@
         "Year": 2021,
         "Region": "Southwest",
         "jamat": "Houston",
-        "#_students": 122,
-        "college_name": "MIT"
+        "#_students": 15,
+        "college_name": "University of Houston"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.094162,
-          42.360092
+          -95.3440627,
+          29.7207902
         ]
       }
     },
@@ -110,13 +110,13 @@
         "Region": "Southwest",
         "jamat": "Houston",
         "#_students": 7,
-        "college_name": "Colombia"
+        "college_name": "Gerogia Tech"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.989308,
-          40.741895
+          -84.3988409,
+          33.776033
         ]
       }
     },
@@ -126,14 +126,14 @@
         "Year": 2021,
         "Region": "Southwest",
         "jamat": "Houston",
-        "#_students": 81,
-        "college_name": "UCLA"
+        "#_students": 1,
+        "college_name": "Lamar University"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.445183,
-          35.06892
+          -94.0758929,
+          30.0388946
         ]
       }
     }
