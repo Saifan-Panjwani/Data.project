@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 2022,
+        "Region": "Southwest",
+        "jamat": "Houston",
+        "#_students": 254,
+        "college_name": "Harvard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.116661,
+          42.377003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 2022,
+        "Region": "Southwest",
+        "jamat": "Houston",
+        "#_students": 321,
+        "college_name": "MIT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.094162,
+          42.360092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 2022,
+        "Region": "Southwest",
+        "jamat": "Houston",
+        "#_students": 123,
+        "college_name": "Colombia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.989308,
+          40.741895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 2022,
+        "Region": "Southwest",
+        "jamat": "Houston",
+        "#_students": 12,
+        "college_name": "UCLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.445183,
+          34.06892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 2021,
+        "Region": "Southwest",
+        "jamat": "Houston",
+        "#_students": 324,
+        "college_name": "Harvard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.116661,
+          42.377003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 2021,
+        "Region": "Southwest",
+        "jamat": "Houston",
+        "#_students": 122,
+        "college_name": "MIT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.094162,
+          42.360092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 2021,
+        "Region": "Southwest",
+        "jamat": "Houston",
+        "#_students": 7,
+        "college_name": "Colombia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.989308,
+          40.741895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 2021,
+        "Region": "Southwest",
+        "jamat": "Houston",
+        "#_students": 81,
+        "college_name": "UCLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.445183,
+          35.06892
+        ]
+      }
+    }
+  ]
+}
