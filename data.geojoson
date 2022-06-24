@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Year": 2022,
+        "Year": "2022",
         "Region": "Southwest",
         "jamat": "Houston",
         "#_students": 50,
@@ -21,7 +21,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Year": 2022,
+        "Year": "2022",
         "Region": "Southwest",
         "jamat": "Houston",
         "#_students": 60,
@@ -38,7 +38,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Year": 2022,
+        "Year": "2022",
         "Region": "Southwest",
         "jamat": "Houston",
         "#_students": 72,
@@ -55,7 +55,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Year": 2022,
+        "Year": "2022",
         "Region": "Southwest",
         "jamat": "Houston",
         "#_students": 12,
@@ -72,7 +72,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Year": 2021,
+        "Year": "2021",
         "Region": "Southwest",
         "jamat": "Houston",
         "#_students": 31,
@@ -89,7 +89,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Year": 2021,
+        "Year": "2021",
         "Region": "Southwest",
         "jamat": "Houston",
         "#_students": 15,
@@ -106,7 +106,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Year": 2021,
+        "Year": "2021",
         "Region": "Southwest",
         "jamat": "Houston",
         "#_students": 7,
@@ -123,7 +123,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Year": 2021,
+        "Year": "2021",
         "Region": "Southwest",
         "jamat": "Houston",
         "#_students": 1,
